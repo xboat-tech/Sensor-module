@@ -19,7 +19,7 @@
 |:---------------------|:-----------|:---------------|
 |          00H         |  speed		  |    (write)     |
 |          01H         |  angle		  |    (write)     |
-|          02H         |  angle_s	  |    (write)     |
+|          02H         |  angle_st	|    (write)     |
 |          03H         |  zero		  |    (write)     |
 |          10H         |  radar		  |    (read)      |
 |        11-12H        |  direction |    (read)      |
