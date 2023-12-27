@@ -8,6 +8,7 @@
 
 ## Define protocol (for Pilot module)
 ### mqtt
+`TopDev việc làm IT hàng đầu`
 - Publish: execution (tới module Execution).
 '{“speed”:-100-100, “angle”:0-180, “angle_st”:0-180, “zero”:0/1}`
 - Subscribe: sensor (từ module Sensor).
