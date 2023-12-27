@@ -15,13 +15,13 @@
 - Subscribe: connection(từ module Execution).
 `{“module”:execution”}`
 ### Modbus
-Address register
-`00H: speed			     (write)`
-'01H: angle			     (write)'
-'02H: angle_st		   (write)'
-'03H: zero			      (write)'
-'10H: radar			     (read)'
-'11-12H: direction	(read)'
-'13-16H: lat			    (read)'
-'17-20H: lon			    (read)'
-'21H: soc			       (read)'
+| **Address register** | **read/write** |
+|00H: speed			       |    (write)     |
+|01H: angle			       |    (write)     |
+|02H: angle_st		     |    (write)     |
+|03H: zero			       |    (write)     |
+|10H: radar			       |    (read)      |
+|11-12H: direction	   |    (read)      |
+|13-16H: lat			     |    (read)      |
+|17-20H: lon			     |    (read)      |
+|21H: soc			         |    (read)      |
