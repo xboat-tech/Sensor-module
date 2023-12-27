@@ -16,6 +16,7 @@
 `{“module”:execution”}`
 ### Modbus
 | **Address register** | **read/write** |
+|:---------------------|:---------------|
 |00H: speed			       |    (write)     |
 |01H: angle			       |    (write)     |
 |02H: angle_st		     |    (write)     |
